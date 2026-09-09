@@ -1,226 +1,207 @@
 <h1 align="center">
-  Hi 👋, I'm Manas Deshmukh
+
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="GITHUB"/>
+
+<br>
+
+𝐇ello,<Data Analyst/>! 👋
+
 </h1>
 
-<h3 align="center">
-  📊 Data Analyst | 🎓 MCA Student | 💻 BCA Graduate | 🐍 Python & SQL Enthusiast
-</h3>
+<p align="center" style="margin: 14px 12px 9px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Welcome+to+my+GitHub+Profile!;Turning+Data+into+Meaningful+Insights+📊;Learning+%7C+Building+%7C+Growing+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+an+Aspiring+Data+Analyst;Turning+Data+into+Meaningful+Insights" alt="Welcome to my GitHub Profile. I am an Aspiring Data Analyst."/>
+
 </p>
 
----
+<img align="right" height="251" width="400" alt="Data Analytics GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
 
-## 👨‍💻 About Me
+# 💫 About Me:
 
-🎓 **BCA Graduate** with a strong foundation in Computer Applications and Data Analytics.
+🎓 I am a **BCA Graduate** with a strong foundation in Computer Applications and Data Analytics.<br>
 
-📚 Currently **pursuing MCA**, expanding my knowledge in programming, databases, data analysis, and advanced computer applications.
+📚 Currently **pursuing MCA**, expanding my knowledge in programming, databases, data analysis, and computer applications.<br>
 
-📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and business decisions.
+📊 I am an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights.<br>
 
-💡 I enjoy working with data, finding patterns, solving problems, and building interactive dashboards.
+🐍 I work with **Python, SQL, Excel, Power BI, and Data Visualization**.<br>
 
-🚀 Currently improving my skills in **Python, SQL, Excel, Power BI, Statistics, and Data Visualization**.
+📈 I enjoy analyzing data, finding patterns, solving problems, and creating interactive dashboards.<br>
 
-🔍 Interested in **Data Analytics, Business Analytics, Data Science, and Machine Learning**.
+🤖 I am also exploring **Data Science and Machine Learning**.<br>
 
----
+🚀 Currently improving my skills in **Advanced SQL, Python, Power BI, DAX, Statistics, and Machine Learning**.<br>
 
-## 🎓 Education
+💡 My goal is to build practical projects and start my career in **Data Analytics**.<br>
 
-* 🎓 **Master of Computer Applications (MCA)** — Currently Pursuing
-* 🎓 **Bachelor of Computer Applications (BCA)** — Completed
+# 🎓 Education:
 
----
+🎓 **Master of Computer Applications (MCA)** — Currently Pursuing
 
-## 💼 What I Do
+🎓 **Bachelor of Computer Applications (BCA)** — Completed
 
-```text
-📌 Data Cleaning & Preprocessing
-📌 Exploratory Data Analysis (EDA)
-📌 Data Visualization
-📌 Dashboard Development
-📌 SQL Database Analysis
-📌 Statistical Analysis
-📌 Business & Data Insights
-📌 Python-based Data Analysis
-```
+# 💼 What I Do:
 
----
+📌 Data Cleaning & Preprocessing<br>
+📌 Exploratory Data Analysis (EDA)<br>
+📌 Data Visualization<br>
+📌 Interactive Dashboard Development<br>
+📌 SQL Database Analysis<br>
+📌 Statistical Analysis<br>
+📌 Business Analytics<br>
+📌 Python-based Data Analysis<br>
 
-## 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack:
 
-### 📊 Data Analytics
+### 📊 Data Analytics:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
-**Python:** Pandas • NumPy • Matplotlib • Seaborn
-**SQL:** MySQL • Joins • Subqueries • Aggregations • CTEs
-**Excel:** Advanced Excel • Pivot Tables • Power Query • Lookup Functions • Data Cleaning
-**Power BI:** Power Query • DAX • Data Modeling • Interactive Dashboards
-**Tableau:** Data Visualization & Dashboard Development
+**Python:** Pandas • NumPy • Matplotlib • Seaborn<br>
+**SQL:** MySQL • Joins • Subqueries • Aggregations • CTEs<br>
+**Excel:** Advanced Excel • Pivot Tables • Power Query • Lookup Functions • Data Cleaning<br>
+**Power BI:** Power Query • DAX • Data Modeling • Interactive Dashboards<br>
+**Tableau:** Data Visualization • Dashboard Development<br>
 
-### 💻 Programming & Development
+### 💻 Programming & Development:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode)](https://skillicons.dev)
 
-* Python
-* C
-* C++
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-* VS Code
+Python • C • C++ • HTML • CSS • JavaScript • Git • GitHub • VS Code
 
-### 🗄️ Databases
+### 🗄️ Databases:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-* MySQL
-* MongoDB
-* Database Management
-* SQL Querying
+MySQL • MongoDB • Database Management • SQL Querying
 
-### 📈 Data Science & Machine Learning
+### 📈 Data Science & Machine Learning:
 
-* Statistics
-* Exploratory Data Analysis
-* Feature Engineering
-* Regression
-* Classification
-* Machine Learning Fundamentals
-* Scikit-learn
+🐍 Python for Data Science<br>
+📊 Statistics<br>
+🔎 Exploratory Data Analysis<br>
+⚙️ Feature Engineering<br>
+📉 Regression<br>
+🎯 Classification<br>
+🤖 Machine Learning Fundamentals<br>
+🧠 Scikit-learn
 
----
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects:
 
 ### 📊 Student Admission & Lead Source Performance Dashboard
 
-An interactive dashboard designed to analyze student inquiries, admission conversions, counselor performance, courses, and lead sources.
+An interactive **Power BI dashboard** designed to analyze student inquiries, admission conversions, counselor performance, courses, and lead sources.
 
 **Key Analysis:**
 
-* Total inquiries
-* Admission conversion rate
-* Counselor performance
-* Course-wise conversion
-* Lead source analysis
-* Monthly inquiry trends
+📌 Total Inquiries<br>
+📌 Admission Conversion Rate<br>
+📌 Counselor Performance<br>
+📌 Course-wise Conversion<br>
+📌 Lead Source Analysis<br>
+📌 Monthly Inquiry Trends<br>
 
 **Tools:** `Power BI` `Excel` `Data Analysis`
 
----
-
 ### 🤖 Face Recognition Attendance System
 
-A web-based attendance management system using face recognition technology.
+A web-based attendance management system using **Face Recognition and Python**.
 
 **Features:**
 
-* Student registration
-* Face capture
-* Face recognition
-* Attendance tracking
-* Late attendance detection
-* Start & end time tracking
-* CSV attendance records
+📌 Student Registration<br>
+📌 Face Capture<br>
+📌 Face Recognition<br>
+📌 Attendance Tracking<br>
+📌 Late Attendance Detection<br>
+📌 Start & End Time Tracking<br>
+📌 CSV Attendance Records<br>
 
-**Tools:** `Python` `Flask` `OpenCV` `Face Recognition` `MySQL`
-
----
+**Tools:** `Python` `Flask` `OpenCV` `Face Recognition`
 
 ### 📈 Data Analysis Projects
 
-Working on practical projects involving:
+I am continuously building practical projects involving:
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Business Analytics
-* Statistical Analysis
-* Data Visualization
-* Power BI Dashboards
-* SQL Data Analysis
-* Python Analytics
+📊 Data Cleaning<br>
+🔎 Exploratory Data Analysis<br>
+📈 Business Analytics<br>
+📉 Statistical Analysis<br>
+📊 Data Visualization<br>
+📋 Power BI Dashboards<br>
+🗄️ SQL Data Analysis<br>
+🐍 Python Analytics<br>
 
----
+# 📜 Certifications:
 
-## 📜 Certifications
-
-🏆 **Data Analytics**
-🏆 **Business Analytics**
-🏆 **Data Science**
+🏆 **Data Analytics**<br>
+🏆 **Business Analytics**<br>
+🏆 **Data Science**<br>
 🏆 **Artificial Intelligence**
 
----
+# 📚 Currently Learning:
 
-## 📚 Currently Learning
-
-```text
-🐍 Advanced Python for Data Analysis
-🗄️ Advanced SQL
-📊 Power BI & DAX
-📈 Statistics for Data Analysis
-🤖 Machine Learning
+🐍 Advanced Python for Data Analysis<br>
+🗄️ Advanced SQL<br>
+📊 Power BI & DAX<br>
+📈 Statistics for Data Analysis<br>
+🤖 Machine Learning<br>
 ☁️ Data & Cloud Technologies
-```
 
----
+## 🌐 Connect With Me:
 
-## 🌐 Connect With Me
+<p align="left" style="margin: 16px 5px 8px;">
 
-<p align="center">
+<a href="mailto:manas.deshmukh.work@gmail.com" target="_blank" rel="noreferrer">
 
-<a href="mailto:manas.deshmukh.work@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+
 </a>
 
 </p>
 
----
+# 💻 Tech Stack:
 
-## 📊 GitHub Statistics
+[![SkillIcons](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,c,cpp,html,css,js,mongodb)](https://skillicons.dev)
+
+# 📊 Github Stats ⚡:
+
+<a href="#">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Manas-tech\&theme=swift\&count_private=true\&hide_border=true\&line_height=20)
+
+</a>
+
+<a href="#">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-tech\&layout=compact\&theme=swift\&count_private=true\&hide_border=true)
+
+</a>
+
+# 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-tech&theme=tokyo-night&hide_border=true" />
+
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-tech&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 💡 My Goal
+# 💡 My Goal:
 
 > **"Turning data into insights, insights into decisions, and ideas into solutions."**
 
-I'm continuously learning, building projects, and improving my skills to start my career as a **Data Analyst**.
-
----
+I am continuously learning, building real-world projects, and improving my technical skills to start my career as a **Data Analyst**.
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+
+⭐ <b>Thanks for visiting my GitHub profile!</b> 🚀
+
 </p>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<!-- Proudly created with ❤️ -->
