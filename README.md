@@ -1,213 +1,226 @@
-# 👋 Hi, I'm Manas Deshmukh
+<h1 align="center">
+  Hi 👋, I'm Manas Deshmukh
+</h1>
 
-### 🎓 BCA Graduate | 🎓 MCA Pursuing | 📊 Aspiring Data Analyst
+<h3 align="center">
+  📊 Data Analyst | 🎓 MCA Student | 💻 BCA Graduate | 🐍 Python & SQL Enthusiast
+</h3>
 
 <p align="center">
-  <b>Turning Data into Insights • Building with Technology • Learning Every Day 🚀</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Welcome+to+my+GitHub+Profile!;Turning+Data+into+Meaningful+Insights+📊;Learning+%7C+Building+%7C+Growing+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate** currently pursuing **MCA**
+🎓 **BCA Graduate** with a strong foundation in Computer Applications and Data Analytics.
 
-📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+📚 Currently **pursuing MCA**, expanding my knowledge in programming, databases, data analysis, and advanced computer applications.
 
-🐍 Interested in **Python, SQL, Excel, Power BI, Data Analytics and Data Science**.
+📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and business decisions.
 
-💡 Strong foundation in **Programming, DBMS, Data Structures, Web Development and Software Engineering**.
+💡 I enjoy working with data, finding patterns, solving problems, and building interactive dashboards.
 
-🚀 Currently improving my skills in **Data Analytics, Data Visualization, SQL, Power BI and Machine Learning**.
+🚀 Currently improving my skills in **Python, SQL, Excel, Power BI, Statistics, and Data Visualization**.
+
+🔍 Interested in **Data Analytics, Business Analytics, Data Science, and Machine Learning**.
 
 ---
 
 ## 🎓 Education
 
-| Degree | Status |
-|---|---|
-| 🎓 **Master of Computer Applications (MCA)** | 🟢 Pursuing |
-| 🎓 **Bachelor of Computer Applications (BCA)** | ✅ Completed |
+* 🎓 **Master of Computer Applications (MCA)** — Currently Pursuing
+* 🎓 **Bachelor of Computer Applications (BCA)** — Completed
 
 ---
 
-# 🛠️ Skills & Technologies
+## 💼 What I Do
 
-## 📊 Data Analytics
+```text
+📌 Data Cleaning & Preprocessing
+📌 Exploratory Data Analysis (EDA)
+📌 Data Visualization
+📌 Dashboard Development
+📌 SQL Database Analysis
+📌 Statistical Analysis
+📌 Business & Data Insights
+📌 Python-based Data Analysis
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📊 Data Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-**Skills:**  
-`Data Cleaning` • `Data Wrangling` • `EDA` • `Data Visualization` • `Statistics` • `KPI Analysis` • `Business Insights`
+**Python:** Pandas • NumPy • Matplotlib • Seaborn
+**SQL:** MySQL • Joins • Subqueries • Aggregations • CTEs
+**Excel:** Advanced Excel • Pivot Tables • Power Query • Lookup Functions • Data Cleaning
+**Power BI:** Power Query • DAX • Data Modeling • Interactive Dashboards
+**Tableau:** Data Visualization & Dashboard Development
 
----
-
-## 🗄️ SQL & Database
+### 💻 Programming & Development
 
 <p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" />
 </p>
 
-**Skills:**  
-`SQL Queries` • `Joins` • `Subqueries` • `GROUP BY` • `HAVING` • `Aggregate Functions` • `Views` • `Stored Procedures` • `Normalization` • `DBMS`
+* Python
+* C
+* C++
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+* VS Code
 
----
-
-## 📈 Business Intelligence
+### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**Skills:**  
-`Power Query` • `DAX` • `Data Modeling` • `Pivot Tables` • `Pivot Charts` • `VLOOKUP` • `INDEX & MATCH` • `Dashboards` • `Reports`
+* MySQL
+* MongoDB
+* Database Management
+* SQL Querying
+
+### 📈 Data Science & Machine Learning
+
+* Statistics
+* Exploratory Data Analysis
+* Feature Engineering
+* Regression
+* Classification
+* Machine Learning Fundamentals
+* Scikit-learn
 
 ---
 
-## 💻 Programming Languages
+## 🚀 Featured Projects
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 📊 Student Admission & Lead Source Performance Dashboard
 
----
+An interactive dashboard designed to analyze student inquiries, admission conversions, counselor performance, courses, and lead sources.
 
-## 🧠 Computer Science
+**Key Analysis:**
 
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Web Development
-- Computer Architecture
+* Total inquiries
+* Admission conversion rate
+* Counselor performance
+* Course-wise conversion
+* Lead source analysis
+* Monthly inquiry trends
+
+**Tools:** `Power BI` `Excel` `Data Analysis`
 
 ---
 
-## 🔧 Tools & Technologies
+### 🤖 Face Recognition Attendance System
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+A web-based attendance management system using face recognition technology.
 
----
+**Features:**
 
-# 🚀 Featured Projects
+* Student registration
+* Face capture
+* Face recognition
+* Attendance tracking
+* Late attendance detection
+* Start & end time tracking
+* CSV attendance records
 
-## 📊 Student Admission & Lead Source Performance Dashboard
-
-**Tools:** `Power BI` `Excel`
-
-- Analyzed student inquiries and admission performance
-- Created KPI cards for inquiries, admissions and conversion rate
-- Analyzed counselor performance
-- Compared different enquiry sources
-- Built monthly inquiry and admission trends
+**Tools:** `Python` `Flask` `OpenCV` `Face Recognition` `MySQL`
 
 ---
 
-## 🤖 AI Impact Index 2030
+### 📈 Data Analysis Projects
 
-**Tools:** `Python` `Power BI`
+Working on practical projects involving:
 
-- Analyzed the potential impact of Artificial Intelligence
-- Explored trends and patterns in the dataset
-- Created visual insights and interactive dashboards
-- Presented data in an easy-to-understand format
-
----
-
-## 🛒 E-Commerce Data Analysis
-
-**Tools:** `Python` `Pandas` `SQL` `Matplotlib` `Seaborn`
-
-- Cleaned and analyzed e-commerce data
-- Performed Exploratory Data Analysis
-- Identified sales and customer trends
-- Created visualizations to communicate insights
+* Data Cleaning
+* Exploratory Data Analysis
+* Business Analytics
+* Statistical Analysis
+* Data Visualization
+* Power BI Dashboards
+* SQL Data Analysis
+* Python Analytics
 
 ---
 
-## 👨‍💻 Face Recognition Attendance System
-
-**Tools:** `Python` `Flask` `OpenCV` `Face Recognition`
-
-- Developed a web-based attendance management system
-- Implemented student registration and face capture
-- Used facial recognition for attendance
-- Automated attendance recording
-- Built the application using Flask
-
----
-
-# 📜 Certifications
+## 📜 Certifications
 
 🏆 **Data Analytics**
-
 🏆 **Business Analytics**
-
 🏆 **Data Science**
-
 🏆 **Artificial Intelligence**
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- Advanced SQL
-- Advanced Excel
-- Power BI & DAX
-- Python for Data Analytics
-- Statistics
-- Machine Learning
-- Data Science
-
----
-
-# 🎯 Career Goal
-
-> **To become a skilled Data Analyst who can transform complex data into clear, actionable insights and help organizations make better data-driven decisions.**
+```text
+🐍 Advanced Python for Data Analysis
+🗄️ Advanced SQL
+📊 Power BI & DAX
+📈 Statistics for Data Analysis
+🤖 Machine Learning
+☁️ Data & Cloud Technologies
+```
 
 ---
 
-# 🤝 Let's Connect
+## 🌐 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="mailto:manas.deshmukh.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
+
 </p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-### 💡 Analyze • Visualize • Learn • Build • Grow 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manas-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-⭐ **Thanks for visiting my profile!**
+---
 
-</div>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-tech&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💡 My Goal
+
+> **"Turning data into insights, insights into decisions, and ideas into solutions."**
+
+I'm continuously learning, building projects, and improving my skills to start my career as a **Data Analyst**.
+
+---
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
