@@ -196,7 +196,7 @@ I am continuously building practical projects involving:
 
 > **"Turning data into insights, insights into decisions, and ideas into solutions."**
 
-I am continuously learning, building real-world projects, and improving my technical skills to start my career as a **Data Analyst**.
+I am continuously learning, building real-world projects, and improving my technical skills to start my career as a ***Data Analyst***.
 
 <p align="center">
 
