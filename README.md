@@ -158,7 +158,7 @@ I am continuously building practical projects involving:
 
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/manas-deshmukh-17228b386/" target="_blank" rel="noreferrer">
 
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
 
